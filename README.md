@@ -1,4 +1,4 @@
-# Emqx-Single_Node_Monitor (Liunx System)
+# EMQX-Single_Node_Monitor (Liunx System)
 
 Use docker-compose to quickly deploy single-node EMQX and monitoring systems Prometheus and Grafana
 
