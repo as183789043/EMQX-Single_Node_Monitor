@@ -6,9 +6,8 @@ Quick start step by step
 
 * Setting Environment
   ```bash
-  mkir  emqx && cd emqx
   git clone [https://github.com/as183789043/Emqx-Single_Node_Monitor.git](https://github.com/as183789043/EMQX-Single_Node_Monitor.git)
-  mkdir  ./emqx1_data/ && chmod 777 ./emqx1_data/
+  cd EMQX-Single_Node_Monitor
   docker compose up -d
   ```
 
